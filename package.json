@@ -1,0 +1,22 @@
+{
+  "name": "vending",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chai": "^4.1.1",
+    "chai-http": "^3.0.0",
+    "express": "^4.15.4",
+    "file-system": "^2.2.2",
+    "jest": "^20.0.4",
+    "mocha": "^3.5.0",
+    "moment": "^2.18.1",
+    "supertest": "^3.0.0"
+  }
+}
